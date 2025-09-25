@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 - [Scaffold-Stark Maintainer](https://github.com/Scaffold-Stark/scaffold-stark-2) 
 - [GallopPay Creator](https://github.com/kerguo/GallopPay)
 
-![GarudaGuo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerguo&layout=compact&langs_count=8&hide_border=true)
+![Garuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerguo&show_icons=true&theme=radical)
+
+![Garuda's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerguo&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ### 📕 Blog Posts
