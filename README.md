@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cairo & advanced smart contract development
 - 👯 I’m looking to collaborate on open-source Web3 tools
 - 💬 Ask me about blockchain, full-stack dev, or anything Web3!
-- 📫 How to reach me: kergp@live.cn
+- 📫 How to reach me: kerguopeng@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love building developer infrastructure!
 -->
@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 - [GallopPay Creator](https://github.com/kerguo/GallopPay)
 
 ![Garuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerguo&show_icons=true&theme=radical)
-
 ![Garuda's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerguo&layout=compact&langs_count=8&hide_border=true)
 <br />
 
