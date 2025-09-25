@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Garuda!;Web3+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Garuda!;Web3+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
 ## Hello World, I'm [GarudaGuo!](https://garuda-blog.vercel.app/)
@@ -26,29 +26,31 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/your-linkedin-profile">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
-<a href="mailto:kergp@live.cn">
+<a href="mailto:kerguopeng@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <a href="https://garuda-blog.vercel.app/">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/vercel" />
 </a>
-
+<a href="https://x.com/garuda_guo">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/x" />
+</a>
 <br />
 
 ### About Me 🚀
 🌱 I’m a Web3 & Full Stack developer based in Shanghai.<br>
 👨‍💻 Passionate about blockchain, protocol design, and open source.<br>
 
-### My Experiences 🙌
-- [Scaffold-Stark Maintainer](https://github.com/Scaffold-Stark/scaffold-stark-2) - (2023-Present)
-- [GallopPay Creator](https://github.com/kerguo/GallopPay) - (2023-Present)
+### Latest project 🙌
+- [Scaffold-Stark Maintainer](https://github.com/Scaffold-Stark/scaffold-stark-2) 
+- [GallopPay Creator](https://github.com/kerguo/GallopPay)
 
 ![GarudaGuo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerguo&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ### 📕 Blog Posts
-- [我的博客](https://garuda-blog.vercel.app/)
-- [Starknet 开发入门](https://garuda-blog.vercel.app/posts/starknet-intro)
+- [CSDN blog](https://blog.csdn.net/kergp9991?type=blog)
+- [personal blog](https://garuda-blog.vercel.app/)
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kerguo.kerguo)
