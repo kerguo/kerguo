@@ -1,5 +1,5 @@
 <!--
-   个人主页模版 —— Web3 科技感风格 + 雷达图
+   个人主页模版 —— Web3 科技感风格 
    Author: Garuda
 -->
 
@@ -7,53 +7,48 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Garuda!;Web3+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Blockchain-Web3-1CFFDD?style=for-the-badge&logo=blockchaindotcom&logoColor=white">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00CFFF?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-00FFCC?style=for-the-badge&logo=github&logoColor=white">
-</p>
+## Hello World, I'm [GarudaGuo!](https://garuda-blog.vercel.app/)
 
----
+<!--
+**kerguo/kerguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🛠️ Tech Stack
+Here are some ideas to get you started:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Starknet-00FFA3?logo=starknet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Node.js-181717?logo=node.js&logoColor=green" />
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-</p>
+- 🔭 I’m currently working on Web3 & Starknet related projects
+- 🌱 I’m currently learning Cairo & advanced smart contract development
+- 👯 I’m looking to collaborate on open-source Web3 tools
+- 💬 Ask me about blockchain, full-stack dev, or anything Web3!
+- 📫 How to reach me: kergp@live.cn
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love building developer infrastructure!
+-->
 
----
+<a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+<a href="mailto:kergp@live.cn">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+<a href="https://garuda-blog.vercel.app/">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/vercel" />
+</a>
 
-## 🏗️ Featured Projects
+<br />
 
-| 项目 | 简介 | 技术栈 |
-| ---- | ---- | ---- |
-| [Scaffold-Stark](https://github.com/Scaffold-Stark/scaffold-stark-2) | Starknet dApp 开发脚手架 | Starknet, Cairo, React, TypeScript |
-| [GallopPay](https://github.com/kerguo/GallopPay) | Web3 支付工具 | Solidity, Ethereum, React |
+### About Me 🚀
+🌱 I’m a Web3 & Full Stack developer based in Shanghai.<br>
+👨‍💻 Passionate about blockchain, protocol design, and open source.<br>
 
----
+### My Experiences 🙌
+- [Scaffold-Stark Maintainer](https://github.com/Scaffold-Stark/scaffold-stark-2) - (2023-Present)
+- [GallopPay Creator](https://github.com/kerguo/GallopPay) - (2023-Present)
 
-## 📊 GitHub Data Radar
+![GarudaGuo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerguo&layout=compact&langs_count=8&hide_border=true)
+<br />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/radar?username=kerguo&theme=dark" alt="kerguo's Radar" />
-</p>
+### 📕 Blog Posts
+- [我的博客](https://garuda-blog.vercel.app/)
+- [Starknet 开发入门](https://garuda-blog.vercel.app/posts/starknet-intro)
+<br/>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/kerguo"><img src="https://img.shields.io/badge/GitHub-kerguo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- 如果有 Twitter、LinkedIn、个人网站等，可补充 -->
-  <!-- <a href="https://twitter.com/xxx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-hello@web3.dev-1CFFDD?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-</p>
-
----
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kerguo.kerguo)
